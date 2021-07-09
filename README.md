@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# A Pure React and Redux based Frontend App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Demo : [Chat Application](https://Hardly-Human.github.io/chat-application-with-redux/)
+
+<img src="https://media.giphy.com/media/68gdz8BAcCQkFoXmjy/giphy.gif" alt="image" width="500"/>
 
 ## Available Scripts
 
