@@ -1,13 +1,14 @@
 {
-	"name": "chat-application-with-redux",
+	"name": "skypey",
 	"version": "0.1.0",
 	"private": true,
-	"hompage": "https://Hardly-Human.github.io/chat-application-with-redux/",
+	"homepage": "https://Hardly-Human.github.io/chat-application-with-redux/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.14.1",
 		"@testing-library/react": "^11.2.7",
 		"@testing-library/user-event": "^12.8.3",
 		"faker": "^5.5.3",
+		"gh-pages": "^2.0.1",
 		"lodash": "^4.17.21",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
