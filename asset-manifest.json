@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.481b155f.chunk.css",
-    "main.js": "/static/js/main.f9686543.chunk.js",
-    "main.js.map": "/static/js/main.f9686543.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7150ce4d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7150ce4d.js.map",
-    "static/js/2.a7e67edf.chunk.js": "/static/js/2.a7e67edf.chunk.js",
-    "static/js/2.a7e67edf.chunk.js.map": "/static/js/2.a7e67edf.chunk.js.map",
-    "static/js/3.fdf546dc.chunk.js": "/static/js/3.fdf546dc.chunk.js",
-    "static/js/3.fdf546dc.chunk.js.map": "/static/js/3.fdf546dc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.481b155f.chunk.css.map": "/static/css/main.481b155f.chunk.css.map",
-    "static/js/2.a7e67edf.chunk.js.LICENSE.txt": "/static/js/2.a7e67edf.chunk.js.LICENSE.txt"
+    "main.css": "/chat-application-with-redux/static/css/main.481b155f.chunk.css",
+    "main.js": "/chat-application-with-redux/static/js/main.c8b7fa67.chunk.js",
+    "main.js.map": "/chat-application-with-redux/static/js/main.c8b7fa67.chunk.js.map",
+    "runtime-main.js": "/chat-application-with-redux/static/js/runtime-main.f73e978b.js",
+    "runtime-main.js.map": "/chat-application-with-redux/static/js/runtime-main.f73e978b.js.map",
+    "static/js/2.12fc9490.chunk.js": "/chat-application-with-redux/static/js/2.12fc9490.chunk.js",
+    "static/js/2.12fc9490.chunk.js.map": "/chat-application-with-redux/static/js/2.12fc9490.chunk.js.map",
+    "static/js/3.1b99161d.chunk.js": "/chat-application-with-redux/static/js/3.1b99161d.chunk.js",
+    "static/js/3.1b99161d.chunk.js.map": "/chat-application-with-redux/static/js/3.1b99161d.chunk.js.map",
+    "index.html": "/chat-application-with-redux/index.html",
+    "static/css/main.481b155f.chunk.css.map": "/chat-application-with-redux/static/css/main.481b155f.chunk.css.map",
+    "static/js/2.12fc9490.chunk.js.LICENSE.txt": "/chat-application-with-redux/static/js/2.12fc9490.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7150ce4d.js",
-    "static/js/2.a7e67edf.chunk.js",
+    "static/js/runtime-main.f73e978b.js",
+    "static/js/2.12fc9490.chunk.js",
     "static/css/main.481b155f.chunk.css",
-    "static/js/main.f9686543.chunk.js"
+    "static/js/main.c8b7fa67.chunk.js"
   ]
 }
